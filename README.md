@@ -4,6 +4,7 @@
 > Drag videos in, get JPG frames out.
 
 Video2JPG is a small Windows desktop tool that extracts every frame from a video and saves the frames as JPG images. Drop one video, several videos, or a whole folder — pick a JPG quality from 60 to 95 — and hit **Start**.
+<img width="800" height="569" alt="图片" src="https://github.com/user-attachments/assets/dfff8ff1-90f9-4a7c-a9c9-f1de3786fedb" />
 
 [Version](https://img.shields.io/badge/version-V1.0%202026-blue)
 [License](https://img.shields.io/badge/license-MIT-green)
